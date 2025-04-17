@@ -1,12 +1,12 @@
 public class Vehicle {
 
 
-    private void start() {
+    public void start() {
         System.out.println("Vehicle started");
     }
 
 
-    private void stop() {
+    public void stop() {
         System.out.println("Vehicle stopped");
     }
 
